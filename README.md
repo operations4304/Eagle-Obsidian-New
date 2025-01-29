@@ -16,8 +16,7 @@
 
 效果：
 
-![image](https://github.com/user-attachments/assets/fb10beac-05c3-4d91-a926-f4962646b0b5)
-
+![回链教程(新)_20250128232316_005](assets/回链教程(新)_20250128232316_005.png)
 
 点击第一个链接能打开该图片所在的文件夹：
 
